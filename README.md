@@ -1,2 +1,3 @@
-# case_expansion
-Case for Expansion Module
+# Case for boneIO BBB
+The case is designed for 3D printing
+* Recomended matirial PET-G
